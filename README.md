@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Projeto é a criação de um formulário onde estou abordando campos de entrada de texto, data, seleção, text area e envio de arquivos. Vamos focar em customizar inputs desafiadores como radio e checkbox. Além disso, vamos organizar os arquivos e ícones em pastas, exportar elementos como SVG e ajustar o layout do projeto.
 
-- [Acesse o projeto finalizado, online](https://editonr.github.io/formulario_matricula/)
+- [Acesse o projeto finalizado, online](https://editonr.github.io/FormularioMatricula/)
 
 ---
 
